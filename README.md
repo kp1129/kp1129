@@ -4,4 +4,4 @@ I'm Katya and I'm a software engineer. My specialty is fullstack development wit
 
 - 🔭 I’m currently working on fullstack apps
 - 🌱 I’m learning Material UI (and loving it!)
-- ⚡ Up next I'm going to explore Typescript and React Native
+- ⚡ Up next I'd like to explore Typescript
